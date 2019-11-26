@@ -1,0 +1,215 @@
+/*font-family: 'Crimson Text', serif;
+font-family: 'Montserrat', sans-serif;*/
+/*header start*/
+header{
+	background-color:white;
+}
+.menu{}
+.menu ul li a{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 13px;
+	color: #707070;
+	margin-right: 13px;
+}
+.menu ul li:last-child a{
+ padding-right: 0 !important;
+}
+.menu ul li:hover a{
+	color: #21FAF7 !important;
+}
+/*header start*/
+/*slider start*/
+.slider{
+	background-color: #131316;
+	padding-bottom: 40px;
+	
+
+}
+.carousel-caption{}
+.carousel-caption h5{
+	font-family:'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight: bold; 
+	color: #ffffff;
+
+}
+.carousel-caption p{
+	font-family:'Montserrat', sans-serif;
+	font-size:50px;
+	color: #ffffff;
+
+}
+.carousel-caption b-m{
+	margin-right: 10px;
+
+}
+.icon{
+	margin-top: 55px;
+}
+
+/*slider end*/
+/*history start*/
+.history{
+	background-color:#f4f4f4;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.contant h1{
+	 font-family:'Montserrat', sans-serif;
+	 font-size: 25px;
+	 color:#231f20;
+
+}
+.paragraph p{
+	font-family:'Crimson Text', serif;
+	 font-size: 15px;
+	 color:#637988;
+
+}
+
+
+/*history end*/
+/*box start*/
+.box{
+	background-color: #f4f4f4;
+	padding-top:50px;
+	padding-bottom: 40px;
+}
+.box1 img{
+	
+}
+/*box end*/
+/*box2 start*/
+.box2{
+	background-color: #f4f4f4;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.box-2{
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 10px solid white
+}
+.icon-2{}
+.icon-2 img{}
+.contant1{}
+.contant1 h3{
+	font-family:'Montserrat', sans-serif;
+	font-size:15px;
+	color: ;
+}
+.contant1 p{
+	font-family:'Montserrat', sans-serif;
+	font-size:;
+	color:#231f20;
+}
+
+
+/*box2 end*/
+/*clients start*/
+.clients{
+	background-color:#ffffff;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.c-contact{}
+.c-contact h1{
+	font-family:'Montserrat', sans-serif
+	font-weight:bold;
+	font-size:22px;
+	color:#231f20;
+}
+.c-contact img{
+	margin-top: 25px;
+}
+.c-contact p{
+	font-family:'Crimson Text', serif;
+	font-size:15px;
+	color:#231f20;
+	margin-top: 30px;
+}
+.c-contact h3{
+	font-family:'Crimson Text';
+	font-weight: italic;
+	font-size:15px;
+	color:#999999;
+	margin-top: 20px;
+}
+.c-icon{
+	margin-top: 20px;
+}
+.c-icon img{
+	
+}
+
+/*clients end*/
+/*about us start*/
+.about{
+	background-color: #101012;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.about-us{
+	padding-top: 80px;
+	padding-right: 30px;
+	padding-left:30px;
+	padding-bottom: 168px;
+	border: 1px solid #F4F4F4;
+
+
+}
+.about-us h1{
+	font-family:'Montserrat', sans-serif;
+	font-weight: ;
+	font-size:25px;
+	color:#ffffff;
+}
+.about-us img{}
+.about-us p {
+	font-family:'Crimson Text';
+	font-weight: ;
+	font-size:15px;
+	color:#ffffff;
+}
+.contact-us{
+	padding-top: 23px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 69px;
+    border: 1px solid #F4F4F4;
+}
+.contact-us-contain{}
+.contact-us-contain h1{
+	font-family:'Montserrat', sans-serif;
+	font-size:25px;
+	color:#ffffff;
+}
+.custom-b{
+	margin-left: 195px;
+
+}
+/*about us end*/
+/*footer start*/
+footer{
+	background-color: #00c7fc;
+	padding-top:30px;
+	padding-bottom:30px;
+
+}
+.f-content{
+	font-size: 15px;
+}
+.f-content p{}
+.f-icon{
+    margin-left: 98px;
+}
+
+
+.f-icon img{
+	padding-right: 50px;
+}
+/*footer start*/
+

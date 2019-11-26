@@ -1,0 +1,91 @@
+@media (max-width: 575.98px) {
+	.carousel-caption {
+    display: none;
+}
+	.icon {
+    margin-top: 4px;
+}
+.slider {
+    padding-bottom: 11px;
+}
+.c-icon {
+    
+    text-align: center;
+}
+.contant h1 {
+    font-size: 19px;
+}
+.paragraph p {
+    font-size: 12px;   
+}
+.box {
+    padding-top: 5px;
+}
+.about-us p {
+    font-size: 13px;
+}
+.about-us {
+    padding-top: 30px;
+    padding-bottom: 27px;
+}
+.contact-us {
+    padding-bottom: 26px;  
+}
+.custom-b {
+    margin-left: 72px;
+    margin-top: 10px;
+}
+.contact-us {
+    margin-top: 10px;
+}
+.f-icon img {
+    padding-right: 20px;
+}
+.f-icon {
+    margin-left: 90px;
+}
+.f-content p {
+    font-size: 12px;
+    text-align: center;
+}
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	.carousel-caption p {
+    font-size: 40px;
+}
+.c-icon {
+    margin-top: 20px;
+    text-align: center;
+}
+.contact-us {
+    margin-top: 10px;
+}
+.f-content p {
+    text-align: center;
+}
+.f-icon {
+    margin-left: 70px;
+    text-align: center;
+}
+
+
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.carousel-caption p {
+    font-size: 30px;
+}
+.about-us {
+	padding-bottom: 81px;
+}
+.custom-b {
+    margin-left: 97px;
+}
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+@media (min-width: 1200px) {
+}
